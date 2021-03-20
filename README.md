@@ -26,7 +26,7 @@ pip install urllib.request
 pip install BeautifulSoup
 </code>
 </pre>
-제가 다음뉴스를 선택한이유는 처음에는 네이버뉴스(https://news.naver.com/)를 썻는데 출력이 안되는걸보니
+제가 다음뉴스를 선택한이유는 처음에는 네이버뉴스(https://news.naver.com/) 를 썻는데 출력이 안되는걸보니
 네이버측에서 막은거 같습니다.
 
 # DaumNews_crawl
